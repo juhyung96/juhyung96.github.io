@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "LeeJuHyung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발자"
-  location         : "Somewhere"
+  bio              : #"개발자"
+  location         : #
   email            :
   links:
     - label: "Email"
